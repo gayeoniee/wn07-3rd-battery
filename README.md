@@ -9,6 +9,11 @@ whynotsw-camp 3rd-template 레포지토리입니다.
 
 # 프로젝트 계획서
 
+| 홍가연 | 박민상 | 김지영 | 신윤서 | 
+|:------:|:------:|:------:|:------:|
+| <img width="150" height="150" alt="가연님 mbti" src="https://github.com/user-attachments/assets/1047575a-5be4-4974-8028-fec73b8ed693" /> | <img width="150" height="150" alt="isfp 사진" src="https://github.com/user-attachments/assets/0f6fa34d-e668-472a-9178-a1756c43f7d1" /> | <img width="150" height="150" alt="지영님 mbti" src="https://github.com/user-attachments/assets/4250441b-40c3-4c45-add8-f024b7040394" /> | <img width="150" height="150" alt="신윤서 mbti" src="여기에_신윤서_이미지_URL" /> |
+
+
 ## 1. 프로젝트 개요
 - **프로젝트명**: 빅데이터 & 클라우드 IT 교육과정 최종 프로젝트
 - **목표**: 클라우드 기반 빅데이터 분석 시스템 구축

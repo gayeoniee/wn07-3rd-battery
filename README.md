@@ -11,7 +11,11 @@ whynotsw-camp 3rd-template 레포지토리입니다.
 
 | 홍가연 | 박민상 | 김지영 | 신윤서 | 
 |:------:|:------:|:------:|:------:|
-| <img width="150" height="150" alt="가연님 mbti" src="https://github.com/user-attachments/assets/1047575a-5be4-4974-8028-fec73b8ed693" /> | <img width="150" height="150" alt="isfp 사진" src="https://github.com/user-attachments/assets/0f6fa34d-e668-472a-9178-a1756c43f7d1" /> | <img width="150" height="150" alt="지영님 mbti" src="https://github.com/user-attachments/assets/4250441b-40c3-4c45-add8-f024b7040394" /> | <img width="150" height="150" alt="신윤서 mbti" src="https://github.com/user-attachments/assets/57cfcff6-9f1c-4b05-919a-2cb4d3bb6f2c" />
+| <img width="2400" height="2400" alt="hong" src="https://github.com/user-attachments/assets/9fa60bb2-6686-45f5-8b2f-d95d18834c74" /> |
+ | <img width="2400" height="2400" alt="park" src="https://github.com/user-attachments/assets/235c9ffe-99cb-4f7e-9187-3fc6bae16d77" /> |
+ | <img width="2400" height="2400" alt="kim" src="https://github.com/user-attachments/assets/cde8666b-9632-44a4-96c6-054f061d8e24" /> |
+ | <img width="2400" height="2400" alt="shin" src="https://github.com/user-attachments/assets/aedcdaa7-ef0d-46a4-a3ed-ac6b22aa711e" /> |
+| PM · Frontend | 데이터 분석가 · DB | 기획 · Backend | 데이터 엔지니어 · DB |
        
 
 

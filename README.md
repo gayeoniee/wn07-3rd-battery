@@ -87,7 +87,7 @@ Infra & DevOps
 
 Data/Analytics (Dashboard)   
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=FFFFFF)
+![Streamlit](https://img.shields.io/badge/Dashboard-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=FFFFFF)
 
 
 ---------------------------------------

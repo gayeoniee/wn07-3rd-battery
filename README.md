@@ -63,13 +63,32 @@
 - 깃 액션 사용으로 CI/CD
 
 ## 기술 스택
-| 영역                         | 사용 기술                                       |
-| -------------------------- | ------------------------------------------- |
-| Frontend                   | React, TypeScript, Vite, Axios 등            |
-| Backend                    | Python, FastAPI, Uvicorn                    |
-| DB                         | MariaDB           |
-| Infra & DevOps             | AWS EC2, ECR, GitHub Actions, Docker, Nginx |
-| Data/Analytics (Dashboard) | Python, Streamlit          |
+
+
+Frontend                   
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=FFFFFF)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=FFFFFF)
+
+Backend                   
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFFFFF)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=FFFFFF)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-4B8BBE?style=flat-squaree)
+
+DB                         
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=FFFFFF)
+
+Infra & DevOps             
+![AWS EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=FFFFFF)
+![AWS ECR](https://img.shields.io/badge/ECR-FF9900?style=flat-square&logo=amazonaws&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=FFFFFF)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=FFFFFF)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=FFFFFF)
+
+Data/Analytics (Dashboard)   
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=FFFFFF)
+
 
 ---------------------------------------
 
@@ -96,12 +115,12 @@
  
 ----------------------------------------
 
-# 성능 평가 결과서
+# 성능 평가 결과 보고서
 
 <details>
-  <summary>성능 평가 결과서</summary>
+  <summary>성능 평가 결과 보고서</summary>
 
-  - [성능 평가 결과서](./docs/)
+  - [성능 평가 결과 보고서](./docs/CookUs_성능평가결과보고서.pdf)
 
 </details>
 
@@ -117,13 +136,4 @@
 </details>
 
 
------------------------------------------
-
-# 회고
-
-## 1. 잘된 점
-
-## 2. 개선할 점
-
-## 3. 교훈
 

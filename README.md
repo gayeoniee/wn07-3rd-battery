@@ -63,13 +63,30 @@
 - 깃 액션 사용으로 CI/CD
 
 ## 기술 스택
-| 영역                         | 사용 기술                                       |
-| -------------------------- | ------------------------------------------- |
-| Frontend                   | React, TypeScript, Vite, Axios 등            |
-| Backend                    | Python, FastAPI, Uvicorn                    |
-| DB                         | MariaDB           |
-| Infra & DevOps             | AWS EC2, ECR, GitHub Actions, Docker, Nginx |
-| Data/Analytics (Dashboard) | Python, Streamlit          |
+
+
+Frontend                   
+![React](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
+![Vite](https://img.shields.io/badge/Bundler-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFFFFF)
+
+Backend                   
+![Python](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![FastAPI](https://img.shields.io/badge/Framework-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=FFFFFF)
+![Uvicorn](https://img.shields.io/badge/ASGI-Uvicorn-4B8BBE?style=for-the-badge)
+
+DB                         
+![MariaDB](https://img.shields.io/badge/DB-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=FFFFFF)
+
+Infra & DevOps             
+![AWS EC2](https://img.shields.io/badge/AWS-EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=FFFFFF)
+![AWS ECR](https://img.shields.io/badge/AWS-ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/Container-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF)
+![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=FFFFFF)
+![Nginx](https://img.shields.io/badge/Proxy-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=FFFFFF)
+
+Data/Analytics (Dashboard)
+![Streamlit](https://img.shields.io/badge/Dashboard-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=FFFFFF)
 
 ---------------------------------------
 

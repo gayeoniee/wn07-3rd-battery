@@ -51,7 +51,8 @@
 
 
 ## 시스템 아키텍처
-<img width="1254" height="949" alt="아키텍처 drawio (1)" src="https://github.com/user-attachments/assets/7c3e097d-eb4c-42d8-9069-86e1bec63bb6" />
+<img width="1537" height="1269" alt="CookUs_시스템아키텍처" src="https://github.com/user-attachments/assets/1d1712cb-8251-41d3-a1fc-6187bb357c6c" />
+
 
 - EC2 분리
   - Backend 전용 EC2 1대, Front + Dashboard용 EC2 1대로 구성

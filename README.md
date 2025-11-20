@@ -8,10 +8,53 @@
   />
 </p>
 
-| 홍가연 | 박민상 | 김지영 | 신윤서 | 
-|:------:|:------:|:------:|:------:|
-| <img width="150" alt="hong" src="https://github.com/user-attachments/assets/9fa60bb2-6686-45f5-8b2f-d95d18834c74" /> | <img width="150" alt="park" src="https://github.com/user-attachments/assets/235c9ffe-99cb-4f7e-9187-3fc6bae16d77" /> | <img width="150" alt="kim" src="https://github.com/user-attachments/assets/cde8666b-9632-44a4-96c6-054f061d8e24" /> | <img width="150" alt="shin" src="https://github.com/user-attachments/assets/aedcdaa7-ef0d-46a4-a3ed-ac6b22aa711e" /> |
-| PM · Frontend | 데이터 분석가 · DB | 기획 · Backend | 데이터 엔지니어 · DB |
+<p align="center">
+  <table width="100%">
+    <tr>
+      <th>홍가연</th>
+      <th>박민상</th>
+      <th>김지영</th>
+      <th>신윤서</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <img
+          width="220"
+          alt="hong"
+          src="https://github.com/user-attachments/assets/9fa60bb2-6686-45f5-8b2f-d95d18834c74"
+        />
+      </td>
+      <td align="center">
+        <img
+          width="220"
+          alt="park"
+          src="https://github.com/user-attachments/assets/235c9ffe-99cb-4f7e-9187-3fc6bae16d77"
+        />
+      </td>
+      <td align="center">
+        <img
+          width="220"
+          alt="kim"
+          src="https://github.com/user-attachments/assets/cde8666b-9632-44a4-96c6-054f061d8e24"
+        />
+      </td>
+      <td align="center">
+        <img
+          width="220"
+          alt="shin"
+          src="https://github.com/user-attachments/assets/aedcdaa7-ef0d-46a4-a3ed-ac6b22aa711e"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">PM · Frontend</td>
+      <td align="center">데이터 분석가 · DB</td>
+      <td align="center">기획 · Backend</td>
+      <td align="center">데이터 엔지니어 · DB</td>
+    </tr>
+  </table>
+</p>
+
 
 
 # 🗂프로젝트 계획서

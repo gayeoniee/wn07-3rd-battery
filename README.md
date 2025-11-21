@@ -1,6 +1,15 @@
 # 냉장고 재료 기반 맞춤 레시피 추천 서비스 CookUs
 
 <p align="center">
+  <a href="http://43.203.1.85/">
+    <b>🔗 CookUs 서비스 바로가기</b>
+  </a>
+  <br/>
+  <sub>※ 본 서비스는 <b>2025-12-31</b>까지 운영되며 이후 배포가 종료됩니다.</sub>
+</p>
+
+
+<p align="center">
   <img 
     src="https://github.com/user-attachments/assets/ca7a85af-87bb-4ec5-8f43-24628572b585"
     alt="서빙 건전지"
@@ -8,6 +17,7 @@
   />
 </p>
 
+# TEAM 건전지
 <p align="center">
   <table width="100%">
     <tr>
